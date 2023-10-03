@@ -40,5 +40,6 @@ N/A
 https://mighty-wildwood-95494-1b499b3312c1.herokuapp.com/
 
 ## ScreenShot
-<img width="1437" alt="image" src="https://github.com/gulledgecorey/text-editor/assets/130395149/365ff187-b50e-4c02-b64b-e05e65c48206">
+<img width="1439" alt="image" src="https://github.com/gulledgecorey/text-editor/assets/130395149/845a03bb-9f12-4bfc-8005-aca68b9554d6">
+
 
